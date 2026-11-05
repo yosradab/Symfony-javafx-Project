@@ -24,8 +24,6 @@ public class MailService {
         String host = "smtp.gmail.com";
        // final String username = emailFromField.getText();
        // final String password = emailPasswordField.getText();
-//  from =username="sabri.krima@esprit.tn";
-// password="203JMT2383";
         //setup mail server
 
         Properties props = System.getProperties();
